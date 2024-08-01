@@ -9,3 +9,13 @@ The new method achieves the goal of fiducial inference by leveraging advanced st
 Faming Liang, Sehwan Kim, and Yan Sun (2024+), [Extended Fiducial Inference: Toward an Automated Process of Statistical Inference](https://arxiv.org/abs/2407.21622), accepted by *Journal of the Royal Statistical Society Series B*
 
 
+## Description: Linear Regressioin
+
+The notebook `EFI_LinearRegression.ipynb`.describes the application of EFI to the Linear regression problem with known $\sigma$.
+
+<p align="center">
+    <img src="img/hmnist_ebgan_images.gif" width=400>
+</p>
+
+
+## Clustering

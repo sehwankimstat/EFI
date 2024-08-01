@@ -29,4 +29,4 @@ The notebook `EFI_BF.ipynb`.describes the application of EFI to the Behrens–Fi
     <img src="img/BF_example.png" width=600>
 </p>
 
-The above figure presents the results of EFI on Linear Regression: (left) Q-Q plot of $\{\hat{\mu}_1^{(k)}: k=1,2,\ldots M\}$ ($x$-axis)  and $\{\tilde{t}_1^{(k)}: k=1,2,\ldots M \}$ ($y$-axis); (middle) Q-Q plot of $\{\hat{\mu}_2^{(k)}: k=1,2,\ldots \mM\}$  ($x$-axis) and $\{\tilde{t}_2^{(k)}: k=1,2,\ldots M\}$ ($y$-axis) ; (right) Monte Carlo samples of $\hat{\mu}_2-\hat{\mu}_1$ from EFI / Red vertical lines for 2.5 and 97.5 quantiles
+The above figure presents the results of EFI on Linear Regression: (left) Q-Q plot of $\{\hat{\mu}_1^{(k)}: k=1,2,\ldots M\}$ ($x$-axis)  and $\{\tilde{t}_1^{(k)}: k=1,2,\ldots M \}$ ($y$-axis); (middle) Q-Q plot of $\{\hat{\mu}_2^{(k)}: k=1,2,\ldots M\}$  ($x$-axis) and $\{\tilde{t}_2^{(k)}: k=1,2,\ldots M\}$ ($y$-axis) ; (right) Monte Carlo samples of $\hat{\mu}_2-\hat{\mu}_1$ from EFI / Red vertical lines for 2.5 and 97.5 quantiles

@@ -14,6 +14,6 @@ Faming Liang, Sehwan Kim, and Yan Sun (2024+), [Extended Fiducial Inference: Tow
 The notebook `EFI_LinearRegression.ipynb`.describes the application of EFI to the Linear regression problem with known $\sigma$.
 
 <p align="center">
-    <img src="img/LR_example.png" width=400>
+    <img src="img/LR_example.png" width=600>
 </p>
 

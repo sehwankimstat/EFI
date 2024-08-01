@@ -6,5 +6,6 @@ The new method achieves the goal of fiducial inference by leveraging advanced st
 
 ## Related Publication
 
-Faming Liang, Sehwan Kim, and Yan Sun (2024+), [Extended Fiducial Inference: Toward an Automated Process of Statistical Inference](https://arxiv.org/abs/2306.13641), accepted by *Journal of the Royal Statistical Society Series B*
+Faming Liang, Sehwan Kim, and Yan Sun (2024+), [Extended Fiducial Inference: Toward an Automated Process of Statistical Inference](https://arxiv.org/abs/2407.21622), accepted by *Journal of the Royal Statistical Society Series B*
+
 

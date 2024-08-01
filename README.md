@@ -21,5 +21,12 @@ The above figure presents the results of EFI on Linear Regression: (left) a scat
 
 The left panel shows that the imputed random error is quite similar to the true unknown random error. The middle panel demonstrates that the imputed random error exhibits similar distributional behavior to the true random errors. The right panel indicates that the inference from EFI is comparable to that of MLE, Bayes (with objective prior), and Generalized Fiducial Inference.
 
+## Description: Behrens–Fisher problem
 
+The notebook `EFI_BF.ipynb`.describes the application of EFI to the Behrens–Fisher problem. 
 
+<p align="center">
+    <img src="img/BF_example.png" width=600>
+</p>
+
+The above figure presents the results of EFI on Linear Regression: (left) Q-Q plot of $\{\hat{\mu}_1^{(k)}: k=1,2,\ldots M\}$ ($x$-axis)  and $\{\tilde{t}_1^{(k)}: k=1,2,\ldots M \}$ ($y$-axis); (middle) Q-Q plot of $\{\hat{\mu}_2^{(k)}: k=1,2,\ldots \mM\}$  ($x$-axis) and $\{\tilde{t}_2^{(k)}: k=1,2,\ldots M\}$ ($y$-axis) ; (right) Monte Carlo samples of $\hat{\mu}_2-\hat{\mu}_1$ from EFI / Red vertical lines for 2.5 and 97.5 quantiles

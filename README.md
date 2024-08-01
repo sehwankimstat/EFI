@@ -17,6 +17,6 @@ The notebook `EFI_LinearRegression.ipynb`.describes the application of EFI to th
     <img src="img/LR_example.png" width=600>
 </p>
 
-The above figure presents the results of EFI on Linear Regression: (left) a scatter plot of $\hat{\bz}_n$ (y-axis) versus $\bz_n$ (x-axis), (middle) a Q-Q plot of $\hat{\bz}_n$ and $\bz_n$, and (right) confidence intervals of $\beta_1$ produced by EFI and OLS.
+The above figure presents the results of EFI on Linear Regression: (left) a scatter plot of $\{\hat{z}_i\}_{i=1}^n$ (y-axis) versus $\{z_i\}_{i=1}^n$ (x-axis), (middle) a Q-Q plot of $\{\hat{z}_i\}_{i=1}^n$ and $\{z_i\}_{i=1}^n$, and (right) confidence intervals of $\beta_1$ produced by EFI and OLS.
 
 The left panel shows that the imputed random error is quite similar to the true unknown random error. The middle panel demonstrates that the imputed random error exhibits similar distributional behavior to the true random errors. The right panel indicates that the inference from EFI is comparable to that of MLE, Bayes (with objective prior), and Generalized Fiducial Inference.
